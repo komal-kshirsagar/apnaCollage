@@ -1,4 +1,4 @@
 # apnaCollage
 This is my first repository.
 <br>
-author-komal kshirsagar
+author-komal madhukar kshirsagar
